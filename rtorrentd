@@ -35,7 +35,7 @@
 
 ## Settings
 # Username of non-root user who will run the server
-USERNAME="username"
+USERNAME="torrent"
 # Nice looking name of service for script to report back to users
 SERVERNAME="rTorrent"
 # Filename of server binary
